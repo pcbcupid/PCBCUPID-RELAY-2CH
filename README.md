@@ -9,7 +9,7 @@ This particular PCB is designed using Kicad v9.0
 **This design has been built and tested successfully!**
 For more details, check out the product pages at
 
-   * [Glyph-C6](https://shop.pcbcupid.com/product/gm002/)
+   * [Gmod-Relay-2CH](https://shop.pcbcupid.com/product/gm002/)
 
 We are here to build India's largest open source hardware community, If you like to support
 please consider buying the product from the above link!
